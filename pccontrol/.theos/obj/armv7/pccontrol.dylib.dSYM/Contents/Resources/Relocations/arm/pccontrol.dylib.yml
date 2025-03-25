@@ -1,0 +1,270 @@
+---
+triple:          'armv7-apple-darwin'
+binary-path:     '/Users/lemon/Documents/Github/IOS13-SimulateTouch/pccontrol/.theos/obj/armv7/pccontrol.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x4, addend: 0x0, symName: __Z12stopCrazyTapv, symObjAddr: 0x0, symBinAddr: 0x7798, symSize: 0x10 }
+  - { offset: 0x33, size: 0x4, addend: 0x0, symName: __ZL17activatorInstance, symObjAddr: 0x8578, symBinAddr: 0x22758, symSize: 0x0 }
+  - { offset: 0x87, size: 0x4, addend: 0x0, symName: _daemonSock, symObjAddr: 0xE88, symBinAddr: 0x226D8, symSize: 0x0 }
+  - { offset: 0x9F, size: 0x4, addend: 0x0, symName: _isCrazyTapping, symObjAddr: 0x8588, symBinAddr: 0x22930, symSize: 0x0 }
+  - { offset: 0xC3, size: 0x4, addend: 0x0, symName: _isRecording, symObjAddr: 0x8589, symBinAddr: 0x22931, symSize: 0x0 }
+  - { offset: 0xD4, size: 0x4, addend: 0x0, symName: _recordingScriptName, symObjAddr: 0xE8C, symBinAddr: 0x226DC, symSize: 0x0 }
+  - { offset: 0x11E, size: 0x4, addend: 0x0, symName: _touchEventArr, symObjAddr: 0x858C, symBinAddr: 0x22934, symSize: 0x0 }
+  - { offset: 0x157, size: 0x4, addend: 0x0, symName: _eventLinkedListHead, symObjAddr: 0x85DC, symBinAddr: 0x22984, symSize: 0x0 }
+  - { offset: 0x17D, size: 0x4, addend: 0x0, symName: _isInitializedSuccess, symObjAddr: 0xE90, symBinAddr: 0x226E0, symSize: 0x0 }
+  - { offset: 0x18E, size: 0x4, addend: 0x0, symName: _IOHIDEventAppendEventOld, symObjAddr: 0x85E0, symBinAddr: 0x22988, symSize: 0x0 }
+  - { offset: 0x1CA, size: 0x4, addend: 0x0, symName: _openPopUpByDoubleVolumnDown, symObjAddr: 0xE91, symBinAddr: 0x226E1, symSize: 0x0 }
+  - { offset: 0x1ED, size: 0x4, addend: 0x0, symName: _ioHIDEventSystemForPopupDectect, symObjAddr: 0x85E4, symBinAddr: 0x2298C, symSize: 0x0 }
+  - { offset: 0x213, size: 0x4, addend: 0x0, symName: _popupWindow, symObjAddr: 0x85E8, symBinAddr: 0x22990, symSize: 0x0 }
+  - { offset: 0x245, size: 0x4, addend: 0x0, symName: __ZL9startTime, symObjAddr: 0x8580, symBinAddr: 0x22760, symSize: 0x0 }
+  - { offset: 0x26D, size: 0x4, addend: 0x0, symName: '__ZL65_logos_orig$_ungrouped$SpringBoard$applicationDidFinishLaunching$', symObjAddr: 0x857C, symBinAddr: 0x2275C, symSize: 0x0 }
+  - { offset: 0x1C91, size: 0x4, addend: 0x0, symName: __Z12stopCrazyTapv, symObjAddr: 0x0, symBinAddr: 0x7798, symSize: 0x10 }
+  - { offset: 0x1CAC, size: 0x4, addend: 0x0, symName: __Z22crazyTapTimeUpCallbacki, symObjAddr: 0x10, symBinAddr: 0x77A8, symSize: 0x22 }
+  - { offset: 0x1CE1, size: 0x4, addend: 0x0, symName: __Z22dontPutThisFileIntoIdav, symObjAddr: 0x32, symBinAddr: 0x77CA, symSize: 0x2 }
+  - { offset: 0x1CF6, size: 0x4, addend: 0x0, symName: __Z42becauseTheSourceCodeWillBeReleasedAtGithubv, symObjAddr: 0x34, symBinAddr: 0x77CC, symSize: 0x2 }
+  - { offset: 0x1D0B, size: 0x4, addend: 0x0, symName: __Z28repoNameIsIOS13SimulateTouchv, symObjAddr: 0x36, symBinAddr: 0x77CE, symSize: 0x2 }
+  - { offset: 0x1D20, size: 0x4, addend: 0x0, symName: __Z27startPopupListeningCallBackv, symObjAddr: 0x38, symBinAddr: 0x77D0, symSize: 0x58 }
+  - { offset: 0x1D5B, size: 0x4, addend: 0x0, symName: __ZL19popupWindowCallBackPvS_P14__IOHIDServiceP12__IOHIDEvent, symObjAddr: 0x90, symBinAddr: 0x7828, symSize: 0x228 }
+  - { offset: 0x1DB6, size: 0x4, addend: 0x0, symName: __Z21initActivatorInstancev, symObjAddr: 0x2B8, symBinAddr: 0x7A50, symSize: 0x164 }
+  - { offset: 0x1DF8, size: 0x4, addend: 0x0, symName: __Z10initConfigv, symObjAddr: 0x41C, symBinAddr: 0x7BB4, symSize: 0x448 }
+  - { offset: 0x1E45, size: 0x4, addend: 0x0, symName: __Z4initv, symObjAddr: 0x864, symBinAddr: 0x7FFC, symSize: 0x14 }
+  - { offset: 0x1E54, size: 0x4, addend: 0x0, symName: __ZL24_logosLocalCtor_3415ee8ciPPcS0_, symObjAddr: 0x878, symBinAddr: 0x8010, symSize: 0x2 }
+  - { offset: 0x1E8F, size: 0x4, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x87A, symBinAddr: 0x8012, symSize: 0x3A }
+  - { offset: 0x1EC3, size: 0x4, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$P11SpringBoardP13objc_selectorP11objc_object', symObjAddr: 0x8B4, symBinAddr: 0x804C, symSize: 0x4C }
+  - { offset: 0x1EE5, size: 0x4, addend: 0x0, symName: '__ZL67_logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$P11SpringBoardP13objc_selectorP11objc_object', symObjAddr: 0x8B4, symBinAddr: 0x804C, symSize: 0x4C }
+  - { offset: 0x1FBD, size: 0x4, addend: 0x0, symName: '____ZL67_logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$P11SpringBoardP13objc_selectorP11objc_object_block_invoke', symObjAddr: 0x900, symBinAddr: 0x8098, symSize: 0x2C4 }
+  - { offset: 0x2085, size: 0x4, addend: 0x0, symName: '____ZL67_logos_method$_ungrouped$SpringBoard$applicationDidFinishLaunching$P11SpringBoardP13objc_selectorP11objc_object_block_invoke_2', symObjAddr: 0xBC4, symBinAddr: 0x835C, symSize: 0x260 }
+  - { offset: 0x2546, size: 0x4, addend: 0x0, symName: __Z12socketServerv, symObjAddr: 0x0, symBinAddr: 0x85BC, symSize: 0x15C }
+  - { offset: 0x255B, size: 0x4, addend: 0x0, symName: _socketRef, symObjAddr: 0x25A0, symBinAddr: 0x22994, symSize: 0x0 }
+  - { offset: 0x2581, size: 0x4, addend: 0x0, symName: _writeStreamRef, symObjAddr: 0x25A4, symBinAddr: 0x22998, symSize: 0x0 }
+  - { offset: 0x25A7, size: 0x4, addend: 0x0, symName: _readStreamRef, symObjAddr: 0x25A8, symBinAddr: 0x2299C, symSize: 0x0 }
+  - { offset: 0x25CD, size: 0x4, addend: 0x0, symName: __ZL13socketClients, symObjAddr: 0x25AC, symBinAddr: 0x22768, symSize: 0x0 }
+  - { offset: 0x2703, size: 0x4, addend: 0x0, symName: __Z12socketServerv, symObjAddr: 0x0, symBinAddr: 0x85BC, symSize: 0x15C }
+  - { offset: 0x2778, size: 0x4, addend: 0x0, symName: __ZL23TCPServerAcceptCallBackP10__CFSocketmPK8__CFDataPKvPv, symObjAddr: 0x15C, symBinAddr: 0x8718, symSize: 0x278 }
+  - { offset: 0x2822, size: 0x4, addend: 0x0, symName: __Z12notifyClientPhP15__CFWriteStream, symObjAddr: 0x3D4, symBinAddr: 0x8990, symSize: 0x22 }
+  - { offset: 0x2869, size: 0x4, addend: 0x0, symName: __ZL10readStreamP14__CFReadStreammPv, symObjAddr: 0x3F6, symBinAddr: 0x89B2, symSize: 0x5E }
+  - { offset: 0x28A4, size: 0x4, addend: 0x0, symName: ____ZL10readStreamP14__CFReadStreammPv_block_invoke, symObjAddr: 0x454, symBinAddr: 0x8A10, symSize: 0x1E0 }
+  - { offset: 0x2B3D, size: 0x4, addend: 0x0, symName: __Z23performTouchFromRawDataPh, symObjAddr: 0x0, symBinAddr: 0x8BF0, symSize: 0x302 }
+  - { offset: 0x2B52, size: 0x4, addend: 0x0, symName: _ioHIDEventSystemForSenderID, symObjAddr: 0x4738, symBinAddr: 0x229A0, symSize: 0x0 }
+  - { offset: 0x2B78, size: 0x4, addend: 0x0, symName: _senderID, symObjAddr: 0x4740, symBinAddr: 0x229A8, symSize: 0x0 }
+  - { offset: 0x2BA8, size: 0x4, addend: 0x0, symName: __ZL14eventsToAppend, symObjAddr: 0x4748, symBinAddr: 0x2276C, symSize: 0x0 }
+  - { offset: 0x2BD6, size: 0x4, addend: 0x0, symName: __ZL19device_screen_width, symObjAddr: 0x4888, symBinAddr: 0x228AC, symSize: 0x0 }
+  - { offset: 0x2BF2, size: 0x4, addend: 0x0, symName: __ZL20device_screen_height, symObjAddr: 0x488C, symBinAddr: 0x228B0, symSize: 0x0 }
+  - { offset: 0x2F8A, size: 0x4, addend: 0x0, symName: __Z23performTouchFromRawDataPh, symObjAddr: 0x0, symBinAddr: 0x8BF0, symSize: 0x302 }
+  - { offset: 0x31F4, size: 0x4, addend: 0x0, symName: __ZL16appendChildEventP12__IOHIDEventiiff, symObjAddr: 0x302, symBinAddr: 0x8EF2, symSize: 0x1CA }
+  - { offset: 0x32D1, size: 0x4, addend: 0x0, symName: __ZL16appendChildEventP12__IOHIDEventiiff, symObjAddr: 0x302, symBinAddr: 0x8EF2, symSize: 0x1CA }
+  - { offset: 0x33D6, size: 0x4, addend: 0x0, symName: __Z12initSenderIdv, symObjAddr: 0x4CC, symBinAddr: 0x90BC, symSize: 0x400 }
+  - { offset: 0x3444, size: 0x4, addend: 0x0, symName: __Z24startSetSenderIDCallBackv, symObjAddr: 0x8CC, symBinAddr: 0x94BC, symSize: 0x56 }
+  - { offset: 0x345E, size: 0x4, addend: 0x0, symName: ____Z12initSenderIdv_block_invoke, symObjAddr: 0x922, symBinAddr: 0x9512, symSize: 0x92 }
+  - { offset: 0x3480, size: 0x4, addend: 0x0, symName: ____Z12initSenderIdv_block_invoke, symObjAddr: 0x922, symBinAddr: 0x9512, symSize: 0x92 }
+  - { offset: 0x34A3, size: 0x4, addend: 0x0, symName: __ZL19setSenderIdCallbackPvS_P14__IOHIDServiceP12__IOHIDEvent, symObjAddr: 0x9B4, symBinAddr: 0x95A4, symSize: 0x4FC }
+  - { offset: 0x3540, size: 0x4, addend: 0x0, symName: __Z22initTouchGetScreenSizev, symObjAddr: 0xEB0, symBinAddr: 0x9AA0, symSize: 0x4E }
+  - { offset: 0x35F8, size: 0x4, addend: 0x0, symName: '+[Screen setScreenSize:height:]', symObjAddr: 0x0, symBinAddr: 0x9AF0, symSize: 0x98 }
+  - { offset: 0x362A, size: 0x4, addend: 0x0, symName: __ZL19device_screen_width, symObjAddr: 0x8148, symBinAddr: 0x228B8, symSize: 0x0 }
+  - { offset: 0x3646, size: 0x4, addend: 0x0, symName: __ZL20device_screen_height, symObjAddr: 0x814C, symBinAddr: 0x228BC, symSize: 0x0 }
+  - { offset: 0x368E, size: 0x4, addend: 0x0, symName: '+[Screen setScreenSize:height:]', symObjAddr: 0x0, symBinAddr: 0x9AF0, symSize: 0x98 }
+  - { offset: 0x36D4, size: 0x4, addend: 0x0, symName: '+[Screen getScreenOrientation]', symObjAddr: 0x98, symBinAddr: 0x9B88, symSize: 0x74 }
+  - { offset: 0x3723, size: 0x4, addend: 0x0, symName: '___30+[Screen getScreenOrientation]_block_invoke', symObjAddr: 0x10C, symBinAddr: 0x9BFC, symSize: 0x1B0 }
+  - { offset: 0x377A, size: 0x4, addend: 0x0, symName: ___copy_helper_block_ea4_20r, symObjAddr: 0x2BC, symBinAddr: 0x9DAC, symSize: 0xA }
+  - { offset: 0x379C, size: 0x4, addend: 0x0, symName: '+[Screen getScreenWidth]', symObjAddr: 0x2CE, symBinAddr: 0x9DB6, symSize: 0x34 }
+  - { offset: 0x37C8, size: 0x4, addend: 0x0, symName: '+[Screen getScreenHeight]', symObjAddr: 0x302, symBinAddr: 0x9DEA, symSize: 0x36 }
+  - { offset: 0x37F4, size: 0x4, addend: 0x0, symName: '+[Screen getScale]', symObjAddr: 0x338, symBinAddr: 0x9E20, symSize: 0xDC }
+  - { offset: 0x3820, size: 0x4, addend: 0x0, symName: '+[Screen getBounds]', symObjAddr: 0x414, symBinAddr: 0x9EFC, symSize: 0xE8 }
+  - { offset: 0x384C, size: 0x4, addend: 0x0, symName: '+[Screen screenShot]', symObjAddr: 0x4FC, symBinAddr: 0x9FE4, symSize: 0x170 }
+  - { offset: 0x3892, size: 0x4, addend: 0x0, symName: '+[Screen screenShotUIImage]', symObjAddr: 0x66C, symBinAddr: 0xA154, symSize: 0x4 }
+  - { offset: 0x38C1, size: 0x4, addend: 0x0, symName: '+[Screen createScreenShotCGImageRef]', symObjAddr: 0x670, symBinAddr: 0xA158, symSize: 0x684 }
+  - { offset: 0x3D5E, size: 0x4, addend: 0x0, symName: '+[Screen createScreenShotCGImageRef]', symObjAddr: 0x670, symBinAddr: 0xA158, symSize: 0x684 }
+  - { offset: 0x3EF9, size: 0x4, addend: 0x0, symName: '+[Screen screenShotAlwaysUp]', symObjAddr: 0xCF4, symBinAddr: 0xA7DC, symSize: 0x230 }
+  - { offset: 0x4172, size: 0x4, addend: 0x0, symName: __Z11processTaskPhP15__CFWriteStream, symObjAddr: 0x0, symBinAddr: 0xAA0C, symSize: 0xB98 }
+  - { offset: 0x428C, size: 0x4, addend: 0x0, symName: __Z11processTaskPhP15__CFWriteStream, symObjAddr: 0x0, symBinAddr: 0xAA0C, symSize: 0xB98 }
+  - { offset: 0x44B1, size: 0x4, addend: 0x0, symName: _openApp, symObjAddr: 0x5664, symBinAddr: 0x229B0, symSize: 0x0 }
+  - { offset: 0x44F3, size: 0x4, addend: 0x0, symName: __ZL10sbServices, symObjAddr: 0x5668, symBinAddr: 0x228C4, symSize: 0x0 }
+  - { offset: 0x4510, size: 0x4, addend: 0x0, symName: __Z34switchProcessForegroundFromRawDataPh, symObjAddr: 0x0, symBinAddr: 0xB5A4, symSize: 0xDC }
+  - { offset: 0x4539, size: 0x4, addend: 0x0, symName: __Z18bringAppForegroundP8NSString, symObjAddr: 0xDC, symBinAddr: 0xB680, symSize: 0x120 }
+  - { offset: 0x456D, size: 0x4, addend: 0x0, symName: __Z23getFrontMostApplicationv, symObjAddr: 0x1FC, symBinAddr: 0xB7A0, symSize: 0x9C }
+  - { offset: 0x459A, size: 0x4, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x298, symBinAddr: 0xB83C, symSize: 0xA }
+  - { offset: 0x45BA, size: 0x4, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x2A2, symBinAddr: 0xB846, symSize: 0x6 }
+  - { offset: 0x45E3, size: 0x4, addend: 0x0, symName: ____Z23getFrontMostApplicationv_block_invoke, symObjAddr: 0x2A8, symBinAddr: 0xB84C, symSize: 0x1C0 }
+  - { offset: 0x4640, size: 0x4, addend: 0x0, symName: __GLOBAL__sub_I_Process.xm.mm, symObjAddr: 0x4AC, symBinAddr: 0xBA0C, symSize: 0x30 }
+  - { offset: 0x4851, size: 0x4, addend: 0x0, symName: __Z23showAlertBoxFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0xBA3C, symSize: 0x3B0 }
+  - { offset: 0x486D, size: 0x4, addend: 0x0, symName: __Z23showAlertBoxFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0xBA3C, symSize: 0x3B0 }
+  - { offset: 0x48BB, size: 0x4, addend: 0x0, symName: __Z12showAlertBoxP8NSStringS0_i, symObjAddr: 0x3B0, symBinAddr: 0xBDEC, symSize: 0x1E8 }
+  - { offset: 0x49A0, size: 0x4, addend: 0x0, symName: __Z13getDeviceNamev, symObjAddr: 0x0, symBinAddr: 0xBFD4, symSize: 0x70 }
+  - { offset: 0x49CA, size: 0x4, addend: 0x0, symName: __Z13getDeviceNamev, symObjAddr: 0x0, symBinAddr: 0xBFD4, symSize: 0x70 }
+  - { offset: 0x49F2, size: 0x4, addend: 0x0, symName: __Z7roundUpii, symObjAddr: 0x70, symBinAddr: 0xC044, symSize: 0x1C }
+  - { offset: 0x4A49, size: 0x4, addend: 0x0, symName: __Z6isIpadv, symObjAddr: 0x8C, symBinAddr: 0xC060, symSize: 0x158 }
+  - { offset: 0x4A6F, size: 0x4, addend: 0x0, symName: __Z18getRandomNumberIntii, symObjAddr: 0x1E4, symBinAddr: 0xC1B8, symSize: 0x38 }
+  - { offset: 0x4AA7, size: 0x4, addend: 0x0, symName: __Z20getRandomNumberFloatff, symObjAddr: 0x21C, symBinAddr: 0xC1F0, symSize: 0x98 }
+  - { offset: 0x4ADF, size: 0x4, addend: 0x0, symName: __Z15getDocumentRootv, symObjAddr: 0x2B4, symBinAddr: 0xC288, symSize: 0x34 }
+  - { offset: 0x4B03, size: 0x4, addend: 0x0, symName: __Z16getScriptsFolderv, symObjAddr: 0x2E8, symBinAddr: 0xC2BC, symSize: 0x114 }
+  - { offset: 0x4B29, size: 0x4, addend: 0x0, symName: __Z17getConfigFilePathv, symObjAddr: 0x3FC, symBinAddr: 0xC3D0, symSize: 0x110 }
+  - { offset: 0x4B53, size: 0x4, addend: 0x0, symName: __Z23getCommonConfigFilePathv, symObjAddr: 0x50C, symBinAddr: 0xC4E0, symSize: 0xE4 }
+  - { offset: 0x4B6C, size: 0x4, addend: 0x0, symName: __Z11swapCGFloatPfS_, symObjAddr: 0x5F0, symBinAddr: 0xC5C4, symSize: 0xA }
+  - { offset: 0x4BA7, size: 0x4, addend: 0x0, symName: __Z7system2PKcPiS1_, symObjAddr: 0x5FA, symBinAddr: 0xC5CE, symSize: 0x132 }
+  - { offset: 0x4CF0, size: 0x4, addend: 0x0, symName: __Z14startRecordingP15__CFWriteStreamPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0xC700, symSize: 0x9DC }
+  - { offset: 0x4D05, size: 0x4, addend: 0x0, symName: _recordRunLoop, symObjAddr: 0x8B0C, symBinAddr: 0x229B4, symSize: 0x0 }
+  - { offset: 0x4D2B, size: 0x4, addend: 0x0, symName: __ZL25scriptRecordingFileHandle, symObjAddr: 0x8B18, symBinAddr: 0x228D0, symSize: 0x0 }
+  - { offset: 0x4DAC, size: 0x4, addend: 0x0, symName: __recordIndicator, symObjAddr: 0x8B10, symBinAddr: 0x229B8, symSize: 0x0 }
+  - { offset: 0x4E24, size: 0x4, addend: 0x0, symName: __ZL11isRecording, symObjAddr: 0x8B1C, symBinAddr: 0x228D4, symSize: 0x0 }
+  - { offset: 0x4E40, size: 0x4, addend: 0x0, symName: __ZL19device_screen_width, symObjAddr: 0x8B20, symBinAddr: 0x228D8, symSize: 0x0 }
+  - { offset: 0x4E55, size: 0x4, addend: 0x0, symName: __ZL20device_screen_height, symObjAddr: 0x8B24, symBinAddr: 0x228DC, symSize: 0x0 }
+  - { offset: 0x4E6A, size: 0x4, addend: 0x0, symName: __ZL30lastEventTimeStampForRecording, symObjAddr: 0x8B28, symBinAddr: 0x228E0, symSize: 0x0 }
+  - { offset: 0x4E8A, size: 0x4, addend: 0x0, symName: __ZL28ioHIDEventSystemForRecording, symObjAddr: 0x8B30, symBinAddr: 0x228E8, symSize: 0x0 }
+  - { offset: 0x4EBD, size: 0x4, addend: 0x0, symName: __Z14startRecordingP15__CFWriteStreamPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0xC700, symSize: 0x9DC }
+  - { offset: 0x4F64, size: 0x4, addend: 0x0, symName: ____Z14startRecordingP15__CFWriteStreamPU15__autoreleasingP7NSError_block_invoke, symObjAddr: 0x9DC, symBinAddr: 0xD0DC, symSize: 0x10C }
+  - { offset: 0x4F99, size: 0x4, addend: 0x0, symName: ____Z14startRecordingP15__CFWriteStreamPU15__autoreleasingP7NSError_block_invoke_2, symObjAddr: 0xAE8, symBinAddr: 0xD1E8, symSize: 0x290 }
+  - { offset: 0x4FCF, size: 0x4, addend: 0x0, symName: __ZL24recordIOHIDEventCallbackPvS_P14__IOHIDServiceP12__IOHIDEvent, symObjAddr: 0xD78, symBinAddr: 0xD478, symSize: 0x534 }
+  - { offset: 0x50E2, size: 0x4, addend: 0x0, symName: ___copy_helper_block_ea4_20s24s, symObjAddr: 0x12AC, symBinAddr: 0xD9AC, symSize: 0x16 }
+  - { offset: 0x5104, size: 0x4, addend: 0x0, symName: ___destroy_helper_block_ea4_20s24s, symObjAddr: 0x12C2, symBinAddr: 0xD9C2, symSize: 0x16 }
+  - { offset: 0x511D, size: 0x4, addend: 0x0, symName: __Z13stopRecordingv, symObjAddr: 0x12D8, symBinAddr: 0xD9D8, symSize: 0xBE }
+  - { offset: 0x5132, size: 0x4, addend: 0x0, symName: ____Z13stopRecordingv_block_invoke, symObjAddr: 0x1396, symBinAddr: 0xDA96, symSize: 0x30 }
+  - { offset: 0x5153, size: 0x4, addend: 0x0, symName: __Z16isRecordingStartv, symObjAddr: 0x13C6, symBinAddr: 0xDAC6, symSize: 0xE }
+  - { offset: 0x572C, size: 0x4, addend: 0x0, symName: __Z16initScriptPlayerv, symObjAddr: 0x0, symBinAddr: 0xDAD4, symSize: 0x3C }
+  - { offset: 0x5741, size: 0x4, addend: 0x0, symName: _scriptPlayer, symObjAddr: 0x1900, symBinAddr: 0x229BC, symSize: 0x0 }
+  - { offset: 0x5791, size: 0x4, addend: 0x0, symName: __ZL24switchAppBeforeRunScript, symObjAddr: 0x810, symBinAddr: 0x226E2, symSize: 0x0 }
+  - { offset: 0x57A1, size: 0x4, addend: 0x0, symName: __Z16initScriptPlayerv, symObjAddr: 0x0, symBinAddr: 0xDAD4, symSize: 0x3C }
+  - { offset: 0x57B6, size: 0x4, addend: 0x0, symName: __Z30updateSwtichAppBeforeRunScripta, symObjAddr: 0x3C, symBinAddr: 0xDB10, symSize: 0x10 }
+  - { offset: 0x57D9, size: 0x4, addend: 0x0, symName: __Z10playScriptPhPU15__autoreleasingP7NSError, symObjAddr: 0x4C, symBinAddr: 0xDB20, symSize: 0x5F8 }
+  - { offset: 0x586F, size: 0x4, addend: 0x0, symName: __Z17stopScriptPlayingPU15__autoreleasingP7NSError, symObjAddr: 0x644, symBinAddr: 0xE118, symSize: 0x1E }
+  - { offset: 0x58E2, size: 0x4, addend: 0x0, symName: '-[Window initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0xE138, symSize: 0x118 }
+  - { offset: 0x59CD, size: 0x4, addend: 0x0, symName: '-[Window initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0xE138, symSize: 0x118 }
+  - { offset: 0x5A08, size: 0x4, addend: 0x0, symName: '-[Window setUserInteractionEnabled:]', symObjAddr: 0x118, symBinAddr: 0xE250, symSize: 0x14 }
+  - { offset: 0x5A41, size: 0x4, addend: 0x0, symName: '-[Window setBorderWidth:]', symObjAddr: 0x12C, symBinAddr: 0xE264, symSize: 0xD4 }
+  - { offset: 0x5A78, size: 0x4, addend: 0x0, symName: '-[Window setCornerRadius:]', symObjAddr: 0x200, symBinAddr: 0xE338, symSize: 0xD4 }
+  - { offset: 0x5AAF, size: 0x4, addend: 0x0, symName: '-[Window setBoarderColor:]', symObjAddr: 0x2D4, symBinAddr: 0xE40C, symSize: 0x124 }
+  - { offset: 0x5AE6, size: 0x4, addend: 0x0, symName: '-[Window test]', symObjAddr: 0x3F8, symBinAddr: 0xE530, symSize: 0x14 }
+  - { offset: 0x5B0F, size: 0x4, addend: 0x0, symName: '-[Window .cxx_destruct]', symObjAddr: 0x40C, symBinAddr: 0xE544, symSize: 0x8 }
+  - { offset: 0x5DBC, size: 0x4, addend: 0x0, symName: '-[PopupWindow init]', symObjAddr: 0x0, symBinAddr: 0xE54C, symSize: 0x88 }
+  - { offset: 0x5DD1, size: 0x4, addend: 0x0, symName: __ZL11windowWidth, symObjAddr: 0x1514, symBinAddr: 0x226E4, symSize: 0x0 }
+  - { offset: 0x5EC8, size: 0x4, addend: 0x0, symName: '-[PopupWindow init]', symObjAddr: 0x0, symBinAddr: 0xE54C, symSize: 0x88 }
+  - { offset: 0x5EF8, size: 0x4, addend: 0x0, symName: '___19-[PopupWindow init]_block_invoke', symObjAddr: 0x88, symBinAddr: 0xE5D4, symSize: 0xB84 }
+  - { offset: 0x5FC3, size: 0x4, addend: 0x0, symName: ___copy_helper_block_ea4_20s, symObjAddr: 0xC0C, symBinAddr: 0xF158, symSize: 0x6 }
+  - { offset: 0x5FE3, size: 0x4, addend: 0x0, symName: '-[PopupWindow recordingStart]', symObjAddr: 0xC18, symBinAddr: 0xF160, symSize: 0x5C }
+  - { offset: 0x600F, size: 0x4, addend: 0x0, symName: '___29-[PopupWindow recordingStart]_block_invoke', symObjAddr: 0xC74, symBinAddr: 0xF1BC, symSize: 0x190 }
+  - { offset: 0x6049, size: 0x4, addend: 0x0, symName: '-[PopupWindow stopPlaying]', symObjAddr: 0xE04, symBinAddr: 0xF34C, symSize: 0x2C }
+  - { offset: 0x6071, size: 0x4, addend: 0x0, symName: '___26-[PopupWindow stopPlaying]_block_invoke', symObjAddr: 0xE30, symBinAddr: 0xF378, symSize: 0x17C }
+  - { offset: 0x60A7, size: 0x4, addend: 0x0, symName: '-[PopupWindow show]', symObjAddr: 0xFAC, symBinAddr: 0xF4F4, symSize: 0x56 }
+  - { offset: 0x60D3, size: 0x4, addend: 0x0, symName: '___19-[PopupWindow show]_block_invoke', symObjAddr: 0x1002, symBinAddr: 0xF54A, symSize: 0x16 }
+  - { offset: 0x60F8, size: 0x4, addend: 0x0, symName: '-[PopupWindow hide]', symObjAddr: 0x1018, symBinAddr: 0xF560, symSize: 0x54 }
+  - { offset: 0x6124, size: 0x4, addend: 0x0, symName: '___19-[PopupWindow hide]_block_invoke', symObjAddr: 0x106C, symBinAddr: 0xF5B4, symSize: 0x16 }
+  - { offset: 0x6149, size: 0x4, addend: 0x0, symName: '-[PopupWindow isShown]', symObjAddr: 0x1082, symBinAddr: 0xF5CA, symSize: 0x6 }
+  - { offset: 0x617A, size: 0x4, addend: 0x0, symName: '-[PopupWindow .cxx_destruct]', symObjAddr: 0x1088, symBinAddr: 0xF5D0, symSize: 0x8 }
+  - { offset: 0x74CC, size: 0x4, addend: 0x0, symName: __ZL19backgroundColorDict, symObjAddr: 0x8FDC, symBinAddr: 0x228EC, symSize: 0x0 }
+  - { offset: 0x7517, size: 0x4, addend: 0x0, symName: __ZL13fontColorDict, symObjAddr: 0x8FE0, symBinAddr: 0x228F0, symSize: 0x0 }
+  - { offset: 0x752C, size: 0x4, addend: 0x0, symName: __ZL7_window, symObjAddr: 0x8FE4, symBinAddr: 0x228F4, symSize: 0x0 }
+  - { offset: 0x75A5, size: 0x4, addend: 0x0, symName: __ZL11windowWidth, symObjAddr: 0x1E90, symBinAddr: 0x226E8, symSize: 0x0 }
+  - { offset: 0x75BA, size: 0x4, addend: 0x0, symName: __ZL12windowHeight, symObjAddr: 0x1E94, symBinAddr: 0x226EC, symSize: 0x0 }
+  - { offset: 0x7607, size: 0x4, addend: 0x0, symName: __Z20showToastFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0xF5D8, symSize: 0x544 }
+  - { offset: 0x7688, size: 0x4, addend: 0x0, symName: ____Z20showToastFromRawDataPhPU15__autoreleasingP7NSError_block_invoke, symObjAddr: 0x544, symBinAddr: 0xFB1C, symSize: 0x120 }
+  - { offset: 0x76AD, size: 0x4, addend: 0x0, symName: '+[Toast hideToast]', symObjAddr: 0x670, symBinAddr: 0xFC3C, symSize: 0x1A }
+  - { offset: 0x76D8, size: 0x4, addend: 0x0, symName: '___18+[Toast hideToast]_block_invoke', symObjAddr: 0x68A, symBinAddr: 0xFC56, symSize: 0x34 }
+  - { offset: 0x7706, size: 0x4, addend: 0x0, symName: '___18+[Toast hideToast]_block_invoke', symObjAddr: 0x68A, symBinAddr: 0xFC56, symSize: 0x34 }
+  - { offset: 0x7727, size: 0x4, addend: 0x0, symName: '+[Toast showToastWithContent:type:duration:position:fontSize:]', symObjAddr: 0x6BE, symBinAddr: 0xFC8A, symSize: 0xFE }
+  - { offset: 0x77AB, size: 0x4, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x7BC, symBinAddr: 0xFD88, symSize: 0xA }
+  - { offset: 0x77CB, size: 0x4, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x7C6, symBinAddr: 0xFD92, symSize: 0x6 }
+  - { offset: 0x77E4, size: 0x4, addend: 0x0, symName: '___62+[Toast showToastWithContent:type:duration:position:fontSize:]_block_invoke', symObjAddr: 0x7CC, symBinAddr: 0xFD98, symSize: 0x9D4 }
+  - { offset: 0x78BD, size: 0x4, addend: 0x0, symName: ___copy_helper_block_ea4_20s24r, symObjAddr: 0x11A0, symBinAddr: 0x1076C, symSize: 0x1E }
+  - { offset: 0x78DF, size: 0x4, addend: 0x0, symName: ___destroy_helper_block_ea4_20s24r, symObjAddr: 0x11BE, symBinAddr: 0x1078A, symSize: 0x18 }
+  - { offset: 0x78F8, size: 0x4, addend: 0x0, symName: '___62+[Toast showToastWithContent:type:duration:position:fontSize:]_block_invoke.119', symObjAddr: 0x11D6, symBinAddr: 0x107A2, symSize: 0x7C }
+  - { offset: 0x791D, size: 0x4, addend: 0x0, symName: '___62+[Toast showToastWithContent:type:duration:position:fontSize:]_block_invoke_2', symObjAddr: 0x1252, symBinAddr: 0x1081E, symSize: 0x3C }
+  - { offset: 0x7942, size: 0x4, addend: 0x0, symName: ___destroy_helper_block_ea4_20r, symObjAddr: 0x1298, symBinAddr: 0x1085C, symSize: 0x8 }
+  - { offset: 0x795B, size: 0x4, addend: 0x0, symName: '-[Toast show]', symObjAddr: 0x12A0, symBinAddr: 0x10864, symSize: 0x2 }
+  - { offset: 0x7983, size: 0x4, addend: 0x0, symName: '-[Toast setContent:]', symObjAddr: 0x12A2, symBinAddr: 0x10866, symSize: 0x10 }
+  - { offset: 0x79BB, size: 0x4, addend: 0x0, symName: '-[Toast setBackgroundColor:]', symObjAddr: 0x12B2, symBinAddr: 0x10876, symSize: 0x2 }
+  - { offset: 0x79EE, size: 0x4, addend: 0x0, symName: '-[Toast setDuration:]', symObjAddr: 0x12B4, symBinAddr: 0x10878, symSize: 0x4 }
+  - { offset: 0x7A27, size: 0x4, addend: 0x0, symName: '-[Toast .cxx_destruct]', symObjAddr: 0x12B8, symBinAddr: 0x1087C, symSize: 0x8 }
+  - { offset: 0x7A5F, size: 0x4, addend: 0x0, symName: __GLOBAL__sub_I_Toast.xm.mm, symObjAddr: 0x1368, symBinAddr: 0x10884, symSize: 0x40C }
+  - { offset: 0x7D8A, size: 0x4, addend: 0x0, symName: __Z20inputTextFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x10C90, symSize: 0x688 }
+  - { offset: 0x7D9A, size: 0x4, addend: 0x0, symName: __Z20inputTextFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x10C90, symSize: 0x688 }
+  - { offset: 0x8009, size: 0x4, addend: 0x0, symName: __Z24getDeviceInfoFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x11318, symSize: 0x7B0 }
+  - { offset: 0x8079, size: 0x4, addend: 0x0, symName: __Z24getDeviceInfoFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x11318, symSize: 0x7B0 }
+  - { offset: 0x828D, size: 0x4, addend: 0x0, symName: __Z13report_memoryv, symObjAddr: 0x0, symBinAddr: 0x11AC8, symSize: 0x78 }
+  - { offset: 0x82A2, size: 0x4, addend: 0x0, symName: __ZL20touchIndicatorWindow, symObjAddr: 0xC594, symBinAddr: 0x228F8, symSize: 0x0 }
+  - { offset: 0x8430, size: 0x4, addend: 0x0, symName: __ZL9isShowing, symObjAddr: 0xC598, symBinAddr: 0x228FC, symSize: 0x0 }
+  - { offset: 0x844C, size: 0x4, addend: 0x0, symName: __ZL22ioHIDEventSystemClient, symObjAddr: 0xC59C, symBinAddr: 0x22900, symSize: 0x0 }
+  - { offset: 0x8476, size: 0x4, addend: 0x0, symName: __ZL10runLoopRef, symObjAddr: 0xC5A0, symBinAddr: 0x22904, symSize: 0x0 }
+  - { offset: 0x84A0, size: 0x4, addend: 0x0, symName: __ZL5scale, symObjAddr: 0xC5A4, symBinAddr: 0x22908, symSize: 0x0 }
+  - { offset: 0x84B5, size: 0x4, addend: 0x0, symName: __ZL17screenBoundsWidth, symObjAddr: 0xC5A8, symBinAddr: 0x2290C, symSize: 0x0 }
+  - { offset: 0x84CA, size: 0x4, addend: 0x0, symName: __ZL18screenBoundsHeight, symObjAddr: 0xC5AC, symBinAddr: 0x22910, symSize: 0x0 }
+  - { offset: 0x84F3, size: 0x4, addend: 0x0, symName: __Z13report_memoryv, symObjAddr: 0x0, symBinAddr: 0x11AC8, symSize: 0x78 }
+  - { offset: 0x8534, size: 0x4, addend: 0x0, symName: __Z35handleTouchIndicatorTaskWithRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x78, symBinAddr: 0x11B40, symSize: 0xA90 }
+  - { offset: 0x85D9, size: 0x4, addend: 0x0, symName: __Z18stopTouchIndicatorPU15__autoreleasingP7NSError, symObjAddr: 0xB08, symBinAddr: 0x125D0, symSize: 0x84 }
+  - { offset: 0x85FA, size: 0x4, addend: 0x0, symName: __Z19startTouchIndicatorPU15__autoreleasingP7NSError, symObjAddr: 0xB8C, symBinAddr: 0x12654, symSize: 0x1C4 }
+  - { offset: 0x861F, size: 0x4, addend: 0x0, symName: ____Z19startTouchIndicatorPU15__autoreleasingP7NSError_block_invoke, symObjAddr: 0xD50, symBinAddr: 0x12818, symSize: 0x9E0 }
+  - { offset: 0x86CA, size: 0x4, addend: 0x0, symName: __ZL35IOHIDEventCallbackForTouchIndicatorPvS_P14__IOHIDServiceP12__IOHIDEvent, symObjAddr: 0x1730, symBinAddr: 0x131F8, symSize: 0x2CC }
+  - { offset: 0x87E0, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow init]', symObjAddr: 0x19FC, symBinAddr: 0x134C4, symSize: 0x84 }
+  - { offset: 0x8811, size: 0x4, addend: 0x0, symName: '___28-[TouchIndicatorWindow init]_block_invoke', symObjAddr: 0x1A80, symBinAddr: 0x13548, symSize: 0x1D0 }
+  - { offset: 0x883A, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow hideIndicator:]', symObjAddr: 0x1C5C, symBinAddr: 0x13718, symSize: 0x5E }
+  - { offset: 0x8877, size: 0x4, addend: 0x0, symName: '___38-[TouchIndicatorWindow hideIndicator:]_block_invoke', symObjAddr: 0x1CBA, symBinAddr: 0x13776, symSize: 0x58 }
+  - { offset: 0x88A0, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow showIndicator:withX:andY:majorRadius:]', symObjAddr: 0x1D12, symBinAddr: 0x137CE, symSize: 0x9E }
+  - { offset: 0x890D, size: 0x4, addend: 0x0, symName: '___61-[TouchIndicatorWindow showIndicator:withX:andY:majorRadius:]_block_invoke', symObjAddr: 0x1DB0, symBinAddr: 0x1386C, symSize: 0x4F8 }
+  - { offset: 0x89C0, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow show]', symObjAddr: 0x22A8, symBinAddr: 0x13D64, symSize: 0x50 }
+  - { offset: 0x89ED, size: 0x4, addend: 0x0, symName: '___28-[TouchIndicatorWindow show]_block_invoke', symObjAddr: 0x22F8, symBinAddr: 0x13DB4, symSize: 0x16 }
+  - { offset: 0x8A16, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow hide]', symObjAddr: 0x230E, symBinAddr: 0x13DCA, symSize: 0x50 }
+  - { offset: 0x8A43, size: 0x4, addend: 0x0, symName: '___28-[TouchIndicatorWindow hide]_block_invoke', symObjAddr: 0x235E, symBinAddr: 0x13E1A, symSize: 0x16 }
+  - { offset: 0x8A6C, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow setIndicatorColorWithRed:green:blue:alpha:]', symObjAddr: 0x2374, symBinAddr: 0x13E30, symSize: 0x70 }
+  - { offset: 0x8ADA, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow moveIndicator:x:y:majorRadius:]', symObjAddr: 0x23E4, symBinAddr: 0x13EA0, symSize: 0x78 }
+  - { offset: 0x8B47, size: 0x4, addend: 0x0, symName: '___54-[TouchIndicatorWindow moveIndicator:x:y:majorRadius:]_block_invoke', symObjAddr: 0x245C, symBinAddr: 0x13F18, symSize: 0x35C }
+  - { offset: 0x8BCE, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorWindow .cxx_destruct]', symObjAddr: 0x27B8, symBinAddr: 0x14274, symSize: 0x3A }
+  - { offset: 0x90DD, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorView fingerIndex]', symObjAddr: 0x0, symBinAddr: 0x142AE, symSize: 0x1E }
+  - { offset: 0x9133, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorView fingerIndex]', symObjAddr: 0x0, symBinAddr: 0x142AE, symSize: 0x1E }
+  - { offset: 0x9164, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorView setFingerIndex:]', symObjAddr: 0x1E, symBinAddr: 0x142CC, symSize: 0x14 }
+  - { offset: 0x919F, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorView .cxx_destruct]', symObjAddr: 0x32, symBinAddr: 0x142E0, symSize: 0x12 }
+  - { offset: 0x9206, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorCoordinateView coordinateLabel]', symObjAddr: 0x0, symBinAddr: 0x142F2, symSize: 0x1E }
+  - { offset: 0x926A, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorCoordinateView coordinateLabel]', symObjAddr: 0x0, symBinAddr: 0x142F2, symSize: 0x1E }
+  - { offset: 0x929B, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorCoordinateView setCoordinateLabel:]', symObjAddr: 0x1E, symBinAddr: 0x14310, symSize: 0x14 }
+  - { offset: 0x92D6, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorCoordinateView .cxx_destruct]', symObjAddr: 0x32, symBinAddr: 0x14324, symSize: 0x12 }
+  - { offset: 0x933D, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorViewList .cxx_destruct]', symObjAddr: 0x0, symBinAddr: 0x14336, symSize: 0x8 }
+  - { offset: 0x93EC, size: 0x4, addend: 0x0, symName: '-[TouchIndicatorViewList .cxx_destruct]', symObjAddr: 0x0, symBinAddr: 0x14336, symSize: 0x8 }
+  - { offset: 0x9453, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer isPlaying]', symObjAddr: 0x0, symBinAddr: 0x14340, symSize: 0xE }
+  - { offset: 0x947B, size: 0x4, addend: 0x0, symName: __ZL9isPlaying, symObjAddr: 0x9852, symBinAddr: 0x22914, symSize: 0x0 }
+  - { offset: 0x9634, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer isPlaying]', symObjAddr: 0x0, symBinAddr: 0x14340, symSize: 0xE }
+  - { offset: 0x9660, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer getCurrentBundlePath]', symObjAddr: 0xE, symBinAddr: 0x1434E, symSize: 0x22 }
+  - { offset: 0x9690, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer setPath:]', symObjAddr: 0x30, symBinAddr: 0x14370, symSize: 0xDC }
+  - { offset: 0x96CB, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer setRepeatTime:]', symObjAddr: 0x10C, symBinAddr: 0x1444C, symSize: 0x28 }
+  - { offset: 0x9706, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer setInterval:]', symObjAddr: 0x134, symBinAddr: 0x14474, symSize: 0x2E }
+  - { offset: 0x9741, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer setSpeed:]', symObjAddr: 0x162, symBinAddr: 0x144A2, symSize: 0x2E }
+  - { offset: 0x977C, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer setSwitchApp:]', symObjAddr: 0x190, symBinAddr: 0x144D0, symSize: 0x2C }
+  - { offset: 0x97B7, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer init]', symObjAddr: 0x1BC, symBinAddr: 0x144FC, symSize: 0xE0 }
+  - { offset: 0x97E7, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer initWithPath:]', symObjAddr: 0x29C, symBinAddr: 0x145DC, symSize: 0xEC }
+  - { offset: 0x9826, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer runScript:]', symObjAddr: 0x388, symBinAddr: 0x146C8, symSize: 0x6F4 }
+  - { offset: 0x98BA, size: 0x4, addend: 0x0, symName: '___26-[ScriptPlayer runScript:]_block_invoke', symObjAddr: 0xA7C, symBinAddr: 0x14DBC, symSize: 0x268 }
+  - { offset: 0x98DF, size: 0x4, addend: 0x0, symName: '___26-[ScriptPlayer runScript:]_block_invoke.82', symObjAddr: 0xCF0, symBinAddr: 0x15024, symSize: 0x2C }
+  - { offset: 0x991D, size: 0x4, addend: 0x0, symName: ___copy_helper_block_ea4_20s24s28s, symObjAddr: 0xD1C, symBinAddr: 0x15050, symSize: 0x1C }
+  - { offset: 0x993F, size: 0x4, addend: 0x0, symName: ___destroy_helper_block_ea4_20s24s28s, symObjAddr: 0xD38, symBinAddr: 0x1506C, symSize: 0x1C }
+  - { offset: 0x9958, size: 0x4, addend: 0x0, symName: '___26-[ScriptPlayer runScript:]_block_invoke.87', symObjAddr: 0xD54, symBinAddr: 0x15088, symSize: 0x2C }
+  - { offset: 0x9996, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer play:]', symObjAddr: 0xD80, symBinAddr: 0x150B4, symSize: 0x17C }
+  - { offset: 0x99D5, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer playFromRawFile:foregroundApp:err:]', symObjAddr: 0xEFC, symBinAddr: 0x15230, symSize: 0x320 }
+  - { offset: 0x9A78, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer playFromPythonFile:foregroundApp:err:]', symObjAddr: 0x121C, symBinAddr: 0x15550, symSize: 0x2E0 }
+  - { offset: 0x9AD2, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer replay:]', symObjAddr: 0x14FC, symBinAddr: 0x15830, symSize: 0xF0 }
+  - { offset: 0x9B1C, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer playHasStopped]', symObjAddr: 0x15EC, symBinAddr: 0x15920, symSize: 0x188 }
+  - { offset: 0x9B49, size: 0x4, addend: 0x0, symName: '___30-[ScriptPlayer playHasStopped]_block_invoke', symObjAddr: 0x1774, symBinAddr: 0x15AA8, symSize: 0xE0 }
+  - { offset: 0x9B72, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer clear]', symObjAddr: 0x1854, symBinAddr: 0x15B88, symSize: 0x124 }
+  - { offset: 0x9B9F, size: 0x4, addend: 0x0, symName: '___21-[ScriptPlayer clear]_block_invoke', symObjAddr: 0x1978, symBinAddr: 0x15CAC, symSize: 0x2C }
+  - { offset: 0x9BC8, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer forceStop:]', symObjAddr: 0x19A4, symBinAddr: 0x15CD8, symSize: 0x26C }
+  - { offset: 0x9C06, size: 0x4, addend: 0x0, symName: '-[ScriptPlayer .cxx_destruct]', symObjAddr: 0x1C10, symBinAddr: 0x15F44, symSize: 0x30 }
+  - { offset: 0xA074, size: 0x4, addend: 0x0, symName: '-[ActivatorListener activator:receiveEvent:]', symObjAddr: 0x0, symBinAddr: 0x15F74, symSize: 0x47C }
+  - { offset: 0xA0C3, size: 0x4, addend: 0x0, symName: '-[ActivatorListener activator:receiveEvent:]', symObjAddr: 0x0, symBinAddr: 0x15F74, symSize: 0x47C }
+  - { offset: 0xA152, size: 0x4, addend: 0x0, symName: '-[ActivatorListener activator:abortEvent:]', symObjAddr: 0x47C, symBinAddr: 0x163F0, symSize: 0x2 }
+  - { offset: 0xA190, size: 0x4, addend: 0x0, symName: '+[ActivatorListener load]', symObjAddr: 0x47E, symBinAddr: 0x163F2, symSize: 0x2 }
+  - { offset: 0xA264, size: 0x4, addend: 0x0, symName: '-[VKOcrManager initWithCIImage:area:orientation:]', symObjAddr: 0x0, symBinAddr: 0x163F4, symSize: 0x4A8 }
+  - { offset: 0xA657, size: 0x4, addend: 0x0, symName: '-[VKOcrManager initWithCIImage:area:orientation:]', symObjAddr: 0x0, symBinAddr: 0x163F4, symSize: 0x4A8 }
+  - { offset: 0xA6FC, size: 0x4, addend: 0x0, symName: '___49-[VKOcrManager initWithCIImage:area:orientation:]_block_invoke', symObjAddr: 0x4A8, symBinAddr: 0x1689C, symSize: 0x4A }
+  - { offset: 0xA73F, size: 0x4, addend: 0x0, symName: ___destroy_helper_block_ea4_20s, symObjAddr: 0x4F8, symBinAddr: 0x168E8, symSize: 0x8 }
+  - { offset: 0xA758, size: 0x4, addend: 0x0, symName: '-[VKOcrManager initWithImagePath:area:orientation:]', symObjAddr: 0x500, symBinAddr: 0x168F0, symSize: 0x178 }
+  - { offset: 0xA7C7, size: 0x4, addend: 0x0, symName: '-[VKOcrManager initWithCGImage:area:orientation:]', symObjAddr: 0x678, symBinAddr: 0x16A68, symSize: 0x110 }
+  - { offset: 0xA84B, size: 0x4, addend: 0x0, symName: '-[VKOcrManager recognize:]', symObjAddr: 0x788, symBinAddr: 0x16B78, symSize: 0x7F0 }
+  - { offset: 0xA945, size: 0x4, addend: 0x0, symName: '-[VKOcrManager areasOfText]', symObjAddr: 0xF78, symBinAddr: 0x17368, symSize: 0x4 }
+  - { offset: 0xA971, size: 0x4, addend: 0x0, symName: '-[VKOcrManager outputDebugImage:error:]', symObjAddr: 0xF7C, symBinAddr: 0x1736C, symSize: 0x274 }
+  - { offset: 0xA9CD, size: 0x4, addend: 0x0, symName: '-[VKOcrManager drawRectangle:inContext:withColor:]', symObjAddr: 0x11F0, symBinAddr: 0x175E0, symSize: 0x148 }
+  - { offset: 0xAA96, size: 0x4, addend: 0x0, symName: '-[VKOcrManager drawDebugOutputfromArray:error:]', symObjAddr: 0x1338, symBinAddr: 0x17728, symSize: 0xB5C }
+  - { offset: 0xAC06, size: 0x4, addend: 0x0, symName: '-[VKOcrManager setMinimumHeight:]', symObjAddr: 0x1E94, symBinAddr: 0x18284, symSize: 0x12 }
+  - { offset: 0xAC43, size: 0x4, addend: 0x0, symName: '-[VKOcrManager setCustomWords:]', symObjAddr: 0x1EA6, symBinAddr: 0x18296, symSize: 0x12 }
+  - { offset: 0xAC80, size: 0x4, addend: 0x0, symName: '-[VKOcrManager setRecognitionLevel:]', symObjAddr: 0x1EB8, symBinAddr: 0x182A8, symSize: 0x12 }
+  - { offset: 0xACBD, size: 0x4, addend: 0x0, symName: '-[VKOcrManager setLanguages:]', symObjAddr: 0x1ECA, symBinAddr: 0x182BA, symSize: 0x12 }
+  - { offset: 0xACFA, size: 0x4, addend: 0x0, symName: '-[VKOcrManager setCorrection:]', symObjAddr: 0x1EDC, symBinAddr: 0x182CC, symSize: 0x12 }
+  - { offset: 0xAD37, size: 0x4, addend: 0x0, symName: '-[VKOcrManager .cxx_destruct]', symObjAddr: 0x1EEE, symBinAddr: 0x182DE, symSize: 0x3A }
+  - { offset: 0xB011, size: 0x4, addend: 0x0, symName: __Z36performTextRecognizerTextFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x18318, symSize: 0xFA2 }
+  - { offset: 0xB028, size: 0x4, addend: 0x0, symName: __Z36performTextRecognizerTextFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x18318, symSize: 0xFA2 }
+  - { offset: 0xB227, size: 0x4, addend: 0x0, symName: __Z22updateCacheFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x192BC, symSize: 0x3C8 }
+  - { offset: 0xB230, size: 0x4, addend: 0x0, symName: __Z22updateCacheFromRawDataPhPU15__autoreleasingP7NSError, symObjAddr: 0x0, symBinAddr: 0x192BC, symSize: 0x3C8 }
+...
