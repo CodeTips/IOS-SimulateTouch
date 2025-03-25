@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  zxtouch
+
+  Created by Jason on 2020/12/31.
+  
+*/
+"prompt" = "Prompt";
+"showPopUpWindow" = "Double click volume down button in any application to show pop-up window.";
+"error" = "Error";
+"createFolderPathNotSet" = "Cannot create folder. Path is NULL. Please contact me on Github or Discord.";
+"createFolderEmptyName" = "Please input folder name.";
+"createFolderAlreadyExists" = "Folder already exists. Please input another folder name.";
+"createFolderFailed" = "Unable to create folder, reason: ";
+
+"createScriptPathNotSet" = "Unable to create script. Path is NULL. Please contact me on Github or Discord.";
+"createScriptAlreadyExists" = "Unable to create script. Script already exists. Please input another script name.";
+"createScriptFailed" = "Unable to create script, reason: ";
+"createScriptEmptyName" = "Please input script name.";
+
+"newFeatures" = "New Fetures";
+"006features" = "1. Added zxtouch python library support (see example scripts)\n2. Bottom/left/right toasts\n3. Added log/add buttons\n4. UI Updates\n5. All example scripts have been updated\n6. Fixes bugs";
+
+"commonSoon" = "Coming soon. Thanks for your patience";
+
+"webServer" = "Web Server";
+"touchIndicator" = "Touch Indicator";
+
+"remoteManagement" = "REMOTE MANAGEMENT";
+"control" = "CONTROL";
+"alpha" = "Alpha";
+
+"speed" = "Play Speed(only supports recording now)";
+"interval" = "Interval(Seconds)";
+"repeatTime" = "Repeat Times";
+
+"rename" = "Rename";
+"playSettings" = "Play Settings";
+
+"activatorNeedInstall" = "To trigger scripts from activator, you have to install activator in Cydia first";
+"pleaseAssignEvents" = "To configure activator events, please go to \"settings - Activator\" to assign the events that activator send to zxtouch ";
+"configActivatorEvents" = "Configure Activator Events";
+
+"setActivatorTrigger" = "Set Activator Run/Stop Script Events";
+
+"setActivatorRunTriggerOnScriptPage" = "Currently, you can only set activator trigger for running a script on script list page. But it will become more convenient in future versions";
+
+"runScript" = "Run Script";
+"showPopup" = "Show/Hide Pop-up Window";
+"stopScriptPlay" = "Stop Script Playing";
+
+"configOnScriptListPage" = "Configure this on script list page";
+"showPopup_description" = "Show or hide ZXTouch Window";
+"stopScriptPlay_description" = "Stop playing all scripts";
+
+"unassigned" = "Unassigned";
+
+"anErrorHappened" = "An error happened. Please try again later.";
+
+"switchAppBeforePlaying" = "Switch App Before Playing";
+
+"script" = "SCRIPT";
+
+"doubleClickShowPopup" = "Double Click Volumn-down To Show Panel";
